@@ -57,7 +57,7 @@ This repository contains a Laravel 12 application configured to run with Docker.
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:lamchu-cmyk/laravel12-docker.git
    cd laravel12-docker
    ```
 
