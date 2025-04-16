@@ -48,8 +48,7 @@ This repository contains a Laravel 12 application configured to run with Docker.
 8. Access the application at http://localhost:8080
 
 ## Requirements (For Local)
-- [PHP v8.2.x (XAMPP)](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe/download)
-- [PHP v8.4.x (Laragon)](https://github.com/leokhoa/laragon/releases/download/8.0.0/laragon-wamp.exe)
+- [PHP v8.2.x (XAMPP)](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe/download) or [PHP v8.4.x (Laragon)](https://github.com/leokhoa/laragon/releases/download/8.0.0/laragon-wamp.exe)
 - [Composer](https://getcomposer.org/download/)
 - [Node.js v22.x](https://nodejs.org/en/blog/release/v22.11.0)
 
